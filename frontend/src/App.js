@@ -4,6 +4,7 @@ import {BrowserRouter, Routes, Route} from 'react-router-dom'
 
 import Signup from '../src/Components/Signup.jsx'
 import Login from '../src/Components/Login.jsx'
+import Login from '../src/Components/Home.jsx'
 
 
 function App() {
